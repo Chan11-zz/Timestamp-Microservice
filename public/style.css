@@ -1,0 +1,19 @@
+.container {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+#title{
+    color:green;
+    text-transform: uppercase;
+}
+div{
+     font-family: Verdana;
+     font-size: 11px;
+     line-height: 25px;
+     letter-spacing: 1px;
+     font-weight: bold;
+}
+#output-ex{
+    color:#2980b9;
+}
